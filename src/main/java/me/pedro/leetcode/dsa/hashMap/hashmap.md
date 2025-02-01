@@ -25,4 +25,3 @@ haver uma colisão que seria a chaves diferentes apontando para o mesmo hash(ind
 Para resolvermos isso, nessa posição nos criamos um novo array não muito grande e cada um da posição desse array tera lá os elementos. 
 Por conta desse array ser muito pequeno, o processo de procurar qual elementos queremos O(N) que seria percorrer o array até encontrar, não 
 entre muito na complexidade do algoritmo e então por isso notação ainda se mantém O(1).
-
