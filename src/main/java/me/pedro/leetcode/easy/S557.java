@@ -1,7 +1,5 @@
 package me.pedro.leetcode.easy;
 
-import java.util.Arrays;
-
 
 public class S557 {
     public static void main(String[] args) {
