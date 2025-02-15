@@ -6,3 +6,5 @@ Acredito que para conseguir aprender cada vez mais e evoluir na carreira, o conh
 um pouco para aprender. Inicialmente estou estudando através do curso do Augusto Galego mas pesquiso e tento aprender por diversas fontes, conforme for aprendendo, vou commitando aqui.
 
 Valeu pessoal!
+
+Esse é meu perfil no leetcode: https://leetcode.com/u/sspedroo/
